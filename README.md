@@ -6,4 +6,5 @@ The claims data model captures all entities present within the CMS -1500 (02/12)
 #	Intended Audience
 This document is created for the healthcare insurance organization – Blue Cross Medical. This model will be used for storing information of the claims and for processing the claims. Data about claims can be fetched effectively from the claims.
 
-[# Data Model ](https://github.com/zalak13/DatabaseModelling/blob/master/MySQL%205_6.bmp)
+# Data Model 
+[ Data Model ](https://github.com/zalak13/DatabaseModelling/blob/master/MySQL%205_6.bmp)
